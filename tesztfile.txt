@@ -1,0 +1,6 @@
+mkdir git-gyakorlat
+cd git-gyakorlat
+git init
+git status
+touch file.txt
+git status
